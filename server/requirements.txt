@@ -1,0 +1,13 @@
+Flask
+Flask-Bcrypt
+Flask-Cors
+Flask-Session
+Flask-SQLAlchemy
+google-api-core
+google-auth
+google-cloud-vision
+python-dotenv==1.0.1
+redis==5.0.7
+SQLAlchemy==2.0.31
+uuid==1.30
+Werkzeug==3.0.3
